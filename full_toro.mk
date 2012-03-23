@@ -23,6 +23,8 @@
 
 # Camera and Stk
 PRODUCT_PACKAGES := \
+    LibertySettings \
+    Trebuchet \
     Camera \
     Gallery \
     Stk
